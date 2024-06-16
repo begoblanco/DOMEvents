@@ -1,3 +1,3 @@
 # DOMEvents
-<!-- 
-Learning pill :) -->
+ 
+Learning pill :) 
